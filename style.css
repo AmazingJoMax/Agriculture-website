@@ -125,9 +125,10 @@ a{
     gap: 20px;
 }
 
-#contact form input, textarea{
+form input, textarea{
     padding: 10px;
     resize: none;
+    background-color: #fff;
 }
 
 #testimonials h2{
